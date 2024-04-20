@@ -1,2 +1,2 @@
 # private
-This is private. i upload something
+This is NOT private. i upload something
